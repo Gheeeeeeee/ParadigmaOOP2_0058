@@ -9,6 +9,14 @@ public:
     //}
 };
 
+class joko :public seseorang {
+public:
+    void pesan() {
+        cout << "pesan dari joko" << endl;
+    }
+};
+
+
 int main()
 {
     std::cout << "Hello World!\n";
