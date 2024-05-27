@@ -7,7 +7,7 @@ public:
         cout << "halo saya function dari base class";
     }
 };
-
+// final digunakan agar tidak terjadi pewarisan
 class derivedclass : public baseClass {
 public:
     void perkenalan() {
