@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "solvemultiwaris", "solvemul
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "enkapulasi", "enkapulasi\enkapulasi.vcxproj", "{320F4F9F-4890-4DFD-ACBD-1617B2EA9E2E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "abstraksi", "abstraksi\abstraksi.vcxproj", "{A58A51E5-A95F-4188-B584-C164C08B2974}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{320F4F9F-4890-4DFD-ACBD-1617B2EA9E2E}.Release|x64.Build.0 = Release|x64
 		{320F4F9F-4890-4DFD-ACBD-1617B2EA9E2E}.Release|x86.ActiveCfg = Release|Win32
 		{320F4F9F-4890-4DFD-ACBD-1617B2EA9E2E}.Release|x86.Build.0 = Release|Win32
+		{A58A51E5-A95F-4188-B584-C164C08B2974}.Debug|x64.ActiveCfg = Debug|x64
+		{A58A51E5-A95F-4188-B584-C164C08B2974}.Debug|x64.Build.0 = Debug|x64
+		{A58A51E5-A95F-4188-B584-C164C08B2974}.Debug|x86.ActiveCfg = Debug|Win32
+		{A58A51E5-A95F-4188-B584-C164C08B2974}.Debug|x86.Build.0 = Debug|Win32
+		{A58A51E5-A95F-4188-B584-C164C08B2974}.Release|x64.ActiveCfg = Release|x64
+		{A58A51E5-A95F-4188-B584-C164C08B2974}.Release|x64.Build.0 = Release|x64
+		{A58A51E5-A95F-4188-B584-C164C08B2974}.Release|x86.ActiveCfg = Release|Win32
+		{A58A51E5-A95F-4188-B584-C164C08B2974}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
